@@ -2,7 +2,8 @@
 
 This is an introduction to Python for Northumbria University Physics students as part of the module KD4010.
 
-Python is a programming language and is currently one of the most used languages in the world. It is used by many scientists across many disciplines, but it is also used by a host of big companies, e.g.,
+Python is a programming language and is currently one of the most used languages in the world. It is used by many scientists across many disciplines, but it is also used by a host of big companies, e.g., Google, Facebook, Spotify.
+
 Python is a high-level language which enables you to do some complex tasks, but is one of the easiest languages to learn.
 
 Hopefully these notebooks provide you with enough information to start your journey into scientific data analysis.
