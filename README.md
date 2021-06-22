@@ -20,7 +20,7 @@ Python for Data Analysis</a> - Wes McKinney
 If you would like to run the tutorials in Google Colab, you can use the following links
 
 <a href="https://colab.research.google.com/github/Richardjmorton/KD4010/blob/master/tutorials/Tutorial%201.ipynb">
-  Tutorial 1
+  Tutorial 1 &nbsp &nbsp
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
